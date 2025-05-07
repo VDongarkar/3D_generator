@@ -1,0 +1,5 @@
+numpy>=1.21
+trimesh>=3.9
+torch>=2.0
+opencv-python>=4.5
+shap-e @ git+https://github.com/openai/shap-e.git
